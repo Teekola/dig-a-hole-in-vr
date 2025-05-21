@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57600f4134fd924ba0ec5d28cf0ba46, type: 3}
+  m_Name: Diamond
+  m_EditorClassIdentifier: 
+  rewardName: Diamond
+  prefab: {fileID: 8222022057578093835, guid: e8b1136976bab064aaab15d4c0c549ac, type: 3}
+  destroyPrefab: {fileID: 5488534928783027740, guid: 1a24862c129c17749b532467e46b5ac6, type: 3}
+  pickupTextEffect: {fileID: 5488534928783027740, guid: 7487385156f962f41ad20dfe4bc80283, type: 3}
+  spawnChance: 0.1
+  minY: -1000
+  maxY: -5
+  value: 500

@@ -3,12 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Voxel
+  - Reward
+  - LeftHand
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - UIFX
   - Water
   - UI
   - 

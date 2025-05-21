@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57600f4134fd924ba0ec5d28cf0ba46, type: 3}
+  m_Name: Rock
+  m_EditorClassIdentifier: 
+  rewardName: Rock
+  prefab: {fileID: 5985233141708849295, guid: fefa18075bd99e7449136fb1de32b6ce, type: 3}
+  destroyPrefab: {fileID: 5488534928783027740, guid: 0109f420e49c4e143a4928d4195acb1a, type: 3}
+  pickupTextEffect: {fileID: 5488534928783027740, guid: 8f9268db21c8aab46ba22c9296b4cb45, type: 3}
+  spawnChance: 0.3
+  minY: -10
+  maxY: 0.15
+  value: 1

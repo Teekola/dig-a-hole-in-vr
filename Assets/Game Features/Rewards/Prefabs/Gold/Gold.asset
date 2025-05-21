@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57600f4134fd924ba0ec5d28cf0ba46, type: 3}
+  m_Name: Gold
+  m_EditorClassIdentifier: 
+  rewardName: Gold
+  prefab: {fileID: 8222022057578093835, guid: 0dc80a5ff311f5e4399aa16c52a38b86, type: 3}
+  destroyPrefab: {fileID: 5488534928783027740, guid: f8d22b63f2712f841b17a53ca55eab33, type: 3}
+  pickupTextEffect: {fileID: 5488534928783027740, guid: 5c082ca7f8d3fe0408bebb00f03af897, type: 3}
+  spawnChance: 0.2
+  minY: -20
+  maxY: -1
+  value: 25

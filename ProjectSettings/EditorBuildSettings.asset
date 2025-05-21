@@ -6,8 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Game.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 17ee31a3c08c42248adab9473328a005
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2656f466a17ec3346b9175eafd3f30ac, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3e0a02830fc2d0f40be7db7c2b481471, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: dbd5354ae115c944d980f277bfb64667, type: 2}
